@@ -29,7 +29,7 @@ Para usar el proyecto, sigue estos pasos:
    git clone https://github.com/tu_usuario/tu_repositorio.git
 
 
-2. **Actualizar Dependencia:**
+2. **Actualizar Dependencias:**
    ```bash
    npm install
 
